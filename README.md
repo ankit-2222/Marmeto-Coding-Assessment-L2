@@ -41,7 +41,6 @@ marmeto/
 1. **Clone this repo**
    ```bash
    git clone https://github.com/ankit-2222/Marmeto-Coding-Assessment-L2.git
-````
 
 2. **Navigate to the project folder**
 
@@ -53,6 +52,7 @@ marmeto/
 
 That's it! No extra setup or packages required.
 
+````
 
 ## 📬 Contact
 
