@@ -2,6 +2,8 @@
 
 A sleek and modern web application that dynamically showcases products using Shopify's data. Built with HTML, CSS, and JavaScript — optimized for performance and visual appeal.
 
+🔗 **[Live Demo →](https://ankit-marmeto-coding-assessment-l2.netlify.app/)**
+
 ---
 
 ## 🔥 Features
@@ -56,8 +58,3 @@ That's it! No extra setup or packages required.
 
 **Developer:** Ankit Mahapatra
 📧 [ankitmahapatra8018@gmail.com](mailto:ankitmahapatra8018@gmail.com)
-
-
-## 🌐 Live Demo
-
-Coming soon... 
