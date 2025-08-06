@@ -54,15 +54,17 @@ That's it! No extra setup or packages required.
 
 ````
 
+````
 ## 📬 Contact
 
 **Developer:** Ankit Mahapatra
 📧 [ankitmahapatra8018@gmail.com](mailto:ankitmahapatra8018@gmail.com)
 
----
+````
+````
 
 ## 🌐 Live Demo
 
 Coming soon... (or add your deployed link here)
 
----
+````
